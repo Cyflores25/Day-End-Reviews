@@ -1,0 +1,21 @@
+Review of commands and incorporating additional demands
+Partitioaning Storage
+File System
+GUI vs CLI (GUI- apps establitshe // CLI- text form of commands) 
+CD commands
+Absolute vs Relative (absolute siguised by ((/)) and relative does NOT include ((/))) 
+Command head- proved the first 10 lines of a file -- for a specifit count (ex. head -6 /etc/psswd) 
+Command mv- moving and renaming files and directories. 
+Touch = creating new empty files 
+echo = says what you tell it but has additonal useful factors. 
+>
+Which 
+whereis
+grep
+wc
+pipe
+UDI
+gid
+Package Management (apt)
+sudo 
+Inicitation to Binary
