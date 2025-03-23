@@ -1,0 +1,9 @@
+Day in Review: 
+-IAM ( Identity and Access Management:
+ *Identity, *Authentication, *Authorization, *Accounting 
+-useradd (create a user in Linux command) 
+-usermod (how to make modifications to mjackson) 
+-userdel (how to remove a user) 
+-Principle of least priviledge: as needed 
+-mkdir (create new directory ((folders)) 
+-touch (create file) 
