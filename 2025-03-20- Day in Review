@@ -1,0 +1,15 @@
+Source code- Plain Text
+Compiled- Binary  - not readable to client 
+Package managers- like apps on phones 
+RHL (Red Hat Linux) = RPM (a la cart), YUM (full blown), DNF (fullblown) (from least efficiant to most efficiant ((DNF))
+Debian - dpkg and apt (extension .deb) 
+Which Foundation is part of the RHL (RPM, RUM, DNF)
+Centos = Red Hat 
+Ubuntu = Debian
+Dependency pkgs requires another pkgs 
+"Apple = macOS and iOS"
+wget- retrieve entire webpages 
+Did i reach the internet? "ping.8.8.8.8
+Curl: receives and sends 
+tar = file that has been archived 
+stickybit = protrects files and directories from being deleted
