@@ -1,0 +1,15 @@
+WHY WOULD YOU NOT NEED TO USE SOURCE CODE? ((we need bc: make changes/ mods, some distros are not -precompiled, CURIOSITY, ??)
+what is a tar file? multiple files stored into one file (tar = archived file) 
+precess: (program) instances of running code, program loaded in memory and running ((cannot run simultaniously unless its in a different core
+thread: subpart of a program/process ((can run simultaniously ))
+CPU = chips inside of CPU that called cores
+chmod- 
+chown- 
+parent process and create children process and child process can create more process 
+all processes started by one process called "systemd" 
+top 
+ps -e 
+pstree
+Precess state : r (running), S (sleep), t (stop), z (zombie) 
+fg #?
+High priority (lower number) lowe priority (higher number) ? ((negative numers high proprity / positive numbers low prior))? 
