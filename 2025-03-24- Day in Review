@@ -1,0 +1,11 @@
+NIC- Network Interface Code
+8 Bits = 1 Byte, then you it goes up to Kilobyte, Megabyte, Gigabyte, Terabyte
+Digital Data, Digital Signal
+Mr Darryls chart = 128, 64, 32, 16, 8, 4, 2, 1 
+Top of Mr. D chart = 128, 192, 224, 240, 248, 252, 254, 255
+Hex Base 16 1-9, A, B, C, D, E, F... 10, 11, 12, 13, 14, 15
+Use Mr. D chart from 8-1 to solve for "13 (D)" 
+Solve for Doted Decimal 11010101.11111111.00000000.10110110
+OSI Model (7=Application, 6=Presentation, 5=Session, 4=Transport, 3=Network, 2=Data Link, 1=Physical "Bits" 1's , 0's)
+TCP - IP Model (Application, Transport, Internet, Link Layer or Network Access or Network Interface) 
+PORTS
