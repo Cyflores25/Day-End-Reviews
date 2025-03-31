@@ -1,0 +1,11 @@
+IPv4 (x.x.x.x / 32 bit) and IPv6 ( Hex values, eight blocks ((quartets)) / block- 16 bits / quartet block - 16 bits) 128 bit 
+MAC addresses are Hex
+IP addresses are doted decimals
+IPv6 = Hex and doted deciaml address
+ipconfig /all = check for your IP address 
+DNS (Domain Name System) = transalstes domain names to IP addresses and vise versa / name server / resolution
+Manual Config. for IP address "Static" = harder 
+Dynamix Config. IP address auto assigns "dhcp" 
+Difference between ctrl c (shut down / cancels ping) vs ctrl z (pauses and sends process to the background.
+DHCP gives you the following: IP Address, Subnet mask, Default gateway (router / firewall / NAT) - protocols and rules 
+ip r = tells you the default gateway 
