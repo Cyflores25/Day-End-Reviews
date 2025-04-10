@@ -1,0 +1,9 @@
+Day in Review notes:
+-DHCP Server- Auto Assigns IP Addrs (IPv4 / IPv6) 
+-DNS Server Translates IP addrs into web name (EX: 192.01.019. = Amazon.com) / Default gateway 
+-Ping = test connectivity from computer to computer 
+-traceroute = "what router is not working" = how many hops
+-ARP (not the insurance :)) = Address Resolution Protocol = 
+--- ARP Cont..= Data Link Layer = translates IP addrs into MAC addrs //= Your computer wants to send data to 192.168.1.20 → ARP finds out it's at MAC address 00:1B:44:11:3A:B7.
+TCP Dump= (Deal with packets) turns your computer into a collector of packets ((can also collect "frames" , packets, TCP, UDP)) / Capture
+Wireshark = GUI of TCPdump
