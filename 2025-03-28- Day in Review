@@ -1,2 +1,13 @@
 Protocol - TCP 
-FIREWALL - 
+FIREWALLS: Filter using the access control list / can filter through permission, IP address, Protocol (TCP/UCP), Destination and port.
+  - can either be hardware or software / does filtering and routing 
+Network admin decides what enters and what exits 
+Switches forward / Routers route 
+dpkg (a la carte) //  APT (easier) 
+Linux firewall core = Netfilter 
+SSH (port #22): Secure Shell : always needs two keys (public and private -- never share private) / used for authentication / claim: do you belong in this server? 
+Packages end with a "d" -- all except for Apache2 (also a package) 
+Netcat: por scanning is most common use / used to test connectivity and send data across network connections. / can run in either listen mode or connect mode
+  -not true about netcat : can only run in listen mode
+Nmap: displays reports on firewall, vulnerabilities, OS and open parts. 
+   -ex. nmap [option] [host name] 
