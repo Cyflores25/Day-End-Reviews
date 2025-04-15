@@ -1,1 +1,23 @@
-
+CRITICAL THINKING! 
+Practice, Practice, Practice
+Purchase Jason Deon N10-009 6 Practie Exams 
+CLIENT SERVER NETWORK-
+ -Clients require Servers (request date from servers) 
+ -Servers require clients (provide data to clients) 
+  *Clients needs severs, servers need clients* 
+ -Easier to manage
+ -Costly, need an expert/ difficult to learn 
+PEER TO PEER: -Simpler to setup and maintain but no managed security or backups / -no central server
+TOPOLOGY: 
+  -Physical (cables) 
+  -Logical (1's & 0's) 
+  -Point to Point (one computer to one computer) 
+  -Bus = one cable (w/ terminals at the ends) 
+  -Ring = circular setup 
+  -Star = all individually connected to a device like routher, hub, switch
+  -Mesh = all connected to each other (A to B, B to C, C to A etc.) / fault tolerance / uses less power w/ devices that are far away
+Analong (wave like siganal) 
+Repeater (block like signal) 
+Please Do Not Throw Sausage Pizza Away = Physical, Data Link, Network, Transport, Session, Presentation, Application
+SOHO Device: wireless, wired, default gateway, DNS server, DHCP Server, Firewall, Swith, Router (to the outside wordl)
+IoT = smart phone, smart fridge, smart thermostat
