@@ -1,0 +1,29 @@
+**1st Layer of the OSI Model = Physical Layer**
+[Physical- Bits- 1's & o's ]
+ -Wired: T/P (twisted pair ((8 wires))= 4TP, 5TP : STP($$$), UTP, TIA/EIA (govt, and business : have "Categories" such as.. 
+... CAT3(4 wires), CAT5e(8wires), Cat6a, Cat7e, Cat8a // Coax (copper)= 50 ~, 75 ~, RG-6, F-type- BNC, Better than T/P, ..
+... More expensive, Difficult to work with // Fiber (light) = Glass, Plastic, Light = SINGLE MODE (ADDTL.: long distance, small core,...
+... minimal reflection and attenuation, one light at a time, more expensive) MULTIMODE (short distance, bigger core, more disperssion..
+... and attenuation, multiple light modes to pass through, cheaper) 
+*RJ45 = 8 [ |||||||| ] - used for Ethernet  // RJ11 = 4 [ |||| ] - used for telephone system
+ -Wireless: Antenna - 
+ Plenum = ceiling cableing = more expensive 
+ Riser Space = btw 2 floors = used in ver4tical spaces (aka btw floors), prevent spread of fire btw floors, more cost effective
+ Connectors (for Fiber) : ST (wist cable), SC (one click cable), LC (two click combined cable)
+ ** TX vs RS** Transmit / Receive (ex. RX TO TX & TX to RX = one end ((Tx)) connecting to the other end ((Rx))
+ Demarc = (marc bonding btw telco vs private) 
+ MDF= (main distribution frame) 
+ IDF = (intermediate distribution frame)
+ Telco = (telecome service provider) 
+ Baseband = digital (block like signal) 
+ Broadband - analog (wave like signal) 
+ DUPLEX: -Half Duplex = "walkie - talkie" m- need a token to speak - cannot speak at the same time 
+... - Full Duplex = "talk at the same time" - many frequencies 
+TRANSRECEIVERS: (& Receivers) convert Digital Data into Digital Signal (encoding/decoding)
+**to convert digital signal to analog > use a modem**
+**repeater can be used for analog and digital signal**
+**amplifrier - used for analog = to analog**
+ELECTROMAGNETIC SPECTRUM: 
+ -Bandwidth = thereotical 
+ -Throughoutput =
+ -Attenuation = loss of signal strenght as it travels from source.
