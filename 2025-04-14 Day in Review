@@ -1,4 +1,11 @@
-** DATA LINK LAYER- ETHERNET ** 
+ ** DATA LINK LAYER- ETHERNET ** 
 Switch- is Smart, learns MAC addresses, (mesh inside switch), can listen and talk at the same time, 
 CSMA/CD = Ethernet = Chaos, Fast (*is a rule to communicate) 
 Hub: 1's & 0's, received signal and "spits it out", not smart, listen & talk but not at the same time.
+Diff. Standards of Ethernet: T/P. Coax, Fiber 
+Ethernet technology operates at both physical and data link layer
+Ethernet in Physical Layer: witing/ cableing 
+Ethernet in Data Link Layer: MAC addresses
+Baseband (TDM) (one signal) (teisted pair) 
+Broadband (FDM) (multiple signals) (coax) 
+  
