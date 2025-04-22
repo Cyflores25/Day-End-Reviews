@@ -1,11 +1,15 @@
- ** DATA LINK LAYER- ETHERNET ** 
-Switch- is Smart, learns MAC addresses, (mesh inside switch), can listen and talk at the same time, 
-CSMA/CD = Ethernet = Chaos, Fast (*is a rule to communicate) 
-Hub: 1's & 0's, received signal and "spits it out", not smart, listen & talk but not at the same time.
-Diff. Standards of Ethernet: T/P. Coax, Fiber 
-Ethernet technology operates at both physical and data link layer
-Ethernet in Physical Layer: witing/ cableing 
-Ethernet in Data Link Layer: MAC addresses
-Baseband (TDM) (one signal) (teisted pair) 
-Broadband (FDM) (multiple signals) (coax) 
-  
+DATA LINK LAYER: 
+Switch = Intelligent, Smart // learns MAC address // can listen and talk at the same time
+Media = T/P, Coax, Fiber 
+CSMA/CD = Ethernet = Choas, fast (is a rule to communicate) 
+-Diff. standars of Ethernet; T/P, Coax, FIber
+-Ethernet technology operates at both physical and data link layer 
+-Ethernet in Physical Layer: wiring/ cableing 
+-Ethernet in Data Link Layer: MAC address
+Baseband (TDM) (one signal) -- "block like" signal 
+Broadband (FDM) (multiple signals) -- "wavy like" signal
+Half Duplex: talk one at a time (Bus - Hub) 
+Full Duplex: can talk at the same time (Switch) 
+Access Point is a Switch using an anor hardware device (or sometimes software) that allows wireless devices (like laptops, phones, tablets)... 
+ -...to connect to a wired network using Wi-Fi or other wireless standards.
+FIBER: FX, SX, LR, SR
