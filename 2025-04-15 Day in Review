@@ -1,0 +1,6 @@
+Straight through- top talking to bottom (ex. router to switch =straight / router to hub= straight / PC seever to switch= straight..
+.. PC server to hub= straight / switch to hub= straight )
+Cross- if in the same layer (ex. router to router= cross / router to PC server= cross / PC to PC= cross / hub to hub= cross..
+.. switch to switch= cross 
+Rollover- 
+Outband management= physical, walk to switch to physically connect to console to manage the switch 
