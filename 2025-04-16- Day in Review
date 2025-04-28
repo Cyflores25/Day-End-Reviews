@@ -1,0 +1,28 @@
+Auto MDI/MDIX (Medium Dependent Interface / Medium Dependent Interface Crossover) = Ethernet networking technology...
+... normally routers & PC's use MDI / normally switches and hubs use MDIX
+WAP (wireless access point / Data Layer) 
+Tap and Span collects frames and packets // TAP collects all  // SPAN collects specific port. aka port mirroring
+Power Over Ethernet= supplies power through cables (ex. Cat6) through different frequency, need to use a Power Switch
+BGP = Protocal that gets you to the internet 
+An "A" record (address) 
+SSE = cloud based, protect devices and users 
+Wireshark = packet stamper (software)
+VOCABULARY:
+-TAP
+-SPAN (port mirroring)
+-MAC Table = CAM Table 
+-Straight
+-Cross
+-Rollover = Console Port 
+MDI/MDIX
+Inband Management 
+Out-off Management 
+TC Dump / Wireshark
+Port Aggregation 
+NIC, Bridge, Switch, WAP
+
+Software: Wireshark, TCP Dumb
+
+FF:FF:FF:FF:FF:FF = Broadcast 
+
+Collision Domain: Collisions happen on networks where hubs are being used.
