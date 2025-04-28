@@ -1,0 +1,22 @@
+IP addresses are not permenant (4 parts: ex. 8bits.8bits.8bits.8bits)
+MAC addresses are permanent 
+Subnet Mask: way to seperate network number from the host number
+Class A IP address : ex. A. 1.x.x.x - 126.x.x.x  subnet mask by default = 255.0.0.0
+Net number 1.0.0.0 > X.0.0.1 Host number
+Subnet Mask Classes:
+-Class A: 255.0.0.0
+-Class B: 255.255.0.0
+-Class C: 255.255.255.0
+-Class D: unknown
+-Class E: unknown 
+----------
+A: 1.x.x.x - 126.x.x.x  // 255.0.0.0 /8
+B: 128.x.x.x - 191.x.x.x // 255.255.0.0 /16
+C: 192.x.x.x - 223.x.x.x  // 255.255.255.0 /24
+...........
+DHCP: spits out pivate IP addresses // DHCP Process: (1) Discover (2) Offer (3) Request (4) Acknowledgement (DORA)
+NAT: translates private IP addresses to public 
+Private IP Addresses uses router to change to public IP addresses in order to access internet because you cant use Private IP...
+... addresses to access internet. 
+APIPA (169.254.0.1 - 169.254.255.254) - network card not getting a response from DHCP server
+Subnet (subfamily) - purpose to sub the network aka breaking it down into pieces 
