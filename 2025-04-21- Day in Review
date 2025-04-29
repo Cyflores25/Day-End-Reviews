@@ -1,0 +1,20 @@
+Layer 3: Network: IPv4, IPv6, *Routing*, "Router", Packet
+Layer 2: Data Link: MAC, Ethernet, NIC, Switch, "Frame"
+Static: Physically there (Road Trip) 
+Dynamic: Rules
+"Path" "Best Route" - METRICS: Hop, Speed, Latency/Delay
+Routers (Route) are digital direction signs 
+VIP: Virtual IP
+HD (Hard-Drive): Magnetic, SSD, Hybrid
+Interface: PATA, SCII, SATA, NVME/M.2, USB
+Cables: RJ-45 T/P (twisted pair), ST, SC (one click), LC (two clicks)
+Routers always have 2 network cards
+"Routing Packet" - routers talking to each other
+Every router has to have a default gateway 
+ICMP = Ping 
+Static- manually configuring a router (roadtrip) / use in small networks 
+Dynamic- using algorithms to automatically determine the best path for data (learn on your own) 
+BGP- internet & routing 
+Transport : TCP reliable / UDP unreliable 
+Header and Trailer are removed when passing through router and a new header & trailer is attached as it goes out of the..
+... router and going into the server
