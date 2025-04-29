@@ -1,0 +1,40 @@
+1) 192.168.1.0 = netID
+  192.168.1.63 = broadcast
+2) 192.168.1.63
+  192.168.1.127
+3) 192.168.1.128
+  192.168.1.193
+4) 192.168.1.192
+  192.168.1.255
+............................................
+MR D's Chart=
+/25 /26 /27 /28 /29 /30 /31 /32
+128 . 192 . 224 . 240 . 248 . 252 . 254 . 255
+128 . 64 . 32 . 16 . 8 . 4 . 2 . 1 .
+2 . 4 . 8 . 16 . 32 . 64 . 128 . *
+.....................................................
+CIRD = Classless Inter-Domain Routing (slash notation) 
+-------------------------
+Classfull Default= 
+255.0.0.0. = A
+255.255.0.0 = B
+255.255.255.0 = C
+* Partial Subentting or variable -Lenght Subnet Masking *
+Gateway = routers first choice that takes you to the Internet
+---Gateways (DHCP, DNS, Firewall, NAT) 
+DHCP = DOAR process (Discover, Offer, Request, Acknowledgment) 
+APIPA= not getting response from DHCP (169.254.0.1?)
+Network Layer = Packets 
+Data Link Layer = Frames
+Router = Routes packets 
+ARP: "maps" MAC to IP Addrss / it operates on LAN / uses ARP Table
+DNS: "maps" Domain Name to IP Addrss
+Default Gateway: Router / Firewall
+SOHO: Router, Firewall (filter), DHCP, DNSW, NAT = ALL IN ONE
+UNICAST = One to One 
+BROADCAST = ALL
+MULTICAST = Group
+IPv6 = Does not use broadcast (HEX IP addrs) / unicast, miltitask, anycast (like mNearest associated router...
+...)
+IPv4 = Unicast, broadcast, multitask, broadcast 
+
